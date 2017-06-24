@@ -22,8 +22,8 @@ Scale factor will affect the results when the images are captured at avarying di
 
 Minimum neighbors is an important parameter where you want to set a threshold to the number of minimum neighbors for a robust face detection.
 
-For example > Image of Federer holding the Wimbledon Trophy.
+For example > Image of Federer holding the Wimbledon Trophy (federer1.jpg).
 
-If minimum neighbors is set to 5 (less), you will notice you have three faces detected in the image.
+If minimum neighbors is set to 5 (less), you will notice you have three faces detected in the image (federerfdwrong).
 
-If the minimum neighbors is set to say 30 (high), the result of face detection will be accurate and will detect only one face in the image.
+If the minimum neighbors is set to say 30 (high), the result of face detection will be accurate and will detect only one face in the image (federerfdcorrect).
