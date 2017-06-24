@@ -1,6 +1,5 @@
 # Face-expression-detection-and-recognition
 This is small project to recognise the human emotions in a picture.
-
 The subsequent steps involved for the same are as follows:
 
 0 > Detection of faces in the image - Completed.
@@ -13,13 +12,11 @@ The subsequent steps involved for the same are as follows:
 
 4 > All the above steps for a particular emotion - Yet to start.
 
+Detailed information of every step:
 
 0 > Detection of faces in the image:
-
 Firstly, set up a virutal environment of OpenCV 3 with Python.
-
 Code:
-
 export WORKON_HOME=$HOME/.virtualenvs
 source /usr/local/bin/virtualenvwrapper.sh
 source ~/.profile
@@ -30,4 +27,5 @@ Secondly, run the code by typing below:
 python face_detect_cv3.py federer.jpg
 
 Please check the Results file for discussion on the code and other related parameters.
+
 
