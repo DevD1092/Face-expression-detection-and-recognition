@@ -16,10 +16,15 @@ Detailed information of every step:
 
 0 > Detection of faces in the image:
 Firstly, set up a virutal environment of OpenCV 3 with Python.
+
 Code:
+
 export WORKON_HOME=$HOME/.virtualenvs
+
 source /usr/local/bin/virtualenvwrapper.sh
+
 source ~/.profile
+
 mkvirtualenv cv
 
 Secondly, run the code by typing below:
