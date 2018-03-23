@@ -1,5 +1,5 @@
 # Face detection
-This is small project to detect human face in images.
+This is a small project to detect human face in images.
 
 The subsequent steps involved for the same are as follows:
 
